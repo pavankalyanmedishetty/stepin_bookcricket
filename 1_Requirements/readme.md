@@ -15,7 +15,6 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Random values generation makes our game more interesting.
  
  ### Disadvantages
- - GUI is needed
  - Only two players can play this game
  - Leaderboard needs to be implemented
  - Cannot store the previous game statistics.
@@ -39,7 +38,7 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Display the name of the winner.
 
 ## SWOT Analysis
-![SWOT](https://github.com/Chaitu2134/miniproject/blob/main/5_images_and_videos/swot.png)
+![SWOT]()
 
 
 # 4 W's and 1 H
