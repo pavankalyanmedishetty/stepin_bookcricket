@@ -38,7 +38,7 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Display the name of the winner.
 
 ## SWOT Analysis
-![SWOT]()
+![SWOT](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/0e8f94370d58e5b8eda09c10b1b65df89c25516e/6_ImagesAndVideos/swot.drawio.png)
 
 
 # 4 W's and 1 H
