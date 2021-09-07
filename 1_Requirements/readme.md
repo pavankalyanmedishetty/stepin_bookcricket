@@ -27,7 +27,7 @@ The project is titled as **Book Cricket Game** and developed using C language. B
 
 ##  Defining our System
 
-![System Definition]()
+![System Definition](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/a24efdfd52ca8a0566b0f490b0379560af9f9b00/6_ImagesAndVideos/bookcricket.jpg)
 
  Book Cricket have features like:
  -  Reading the names of the two players. 
