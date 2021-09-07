@@ -1,6 +1,4 @@
 # stepin_bookcricket
-(https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/a24efdfd52ca8a0566b0f490b0379560af9f9b00/6_ImagesAndVideos/bookcricket.jpg)
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c717ef5920b94b35a223e7e618c25e46)](https://app.codacy.com/gh/pavankalyanmedishetty/stepin_bookcricket?utm_source=github.com&utm_medium=referral&utm_content=pavankalyanmedishetty/stepin_bookcricket&utm_campaign=Badge_Grade_Settings)
 
 mini project on book cricket using c
