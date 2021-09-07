@@ -23,11 +23,14 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Complexity 
  - Random Function values generation
  - Finding the sum of the players score individually
+
+## FLOW CHART
+![FLOWCHART](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/fd71077b2e1ba071e5c02a8038fdc9f57f6477ff/6_ImagesAndVideos/flowchart.png)
  
 
 ##  Defining our System
 
-![System Definition]()
+![System Definition](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/a24efdfd52ca8a0566b0f490b0379560af9f9b00/6_ImagesAndVideos/bookcricket.jpg)
 
  Book Cricket have features like:
  -  Reading the names of the two players. 
@@ -38,7 +41,7 @@ The project is titled as **Book Cricket Game** and developed using C language. B
  - Display the name of the winner.
 
 ## SWOT Analysis
-![SWOT]()
+![SWOT](https://github.com/pavankalyanmedishetty/stepin_bookcricket/blob/0e8f94370d58e5b8eda09c10b1b65df89c25516e/6_ImagesAndVideos/swot.drawio.png)
 
 
 # 4 W's and 1 H
