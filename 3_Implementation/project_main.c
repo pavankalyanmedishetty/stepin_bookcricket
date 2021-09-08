@@ -23,10 +23,10 @@ int main()
  printf("\n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\tWELCOME TO BOOK CRICKET GAME\t<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n");
  printf("Enter Player 1 Name:");
  fflush(stdin);
- fgets(player_1);
+ gets(player_1);
  printf("Enter Player 2 Name:");
  fflush(stdin);
- fgets(player_2);
+ gets(player_2);
  printf("Enter\n1 - Fixed Overs\n2 - Play Until Out\n3 - Instructions For Book Cricket\n4 - Exit: ");
  scanf("%d",&noofovers);
   do{
