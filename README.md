@@ -11,6 +11,7 @@
 [![cppcheck-action](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml)
 [![Unit testing](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml)
 [![C/C++ CI](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/c_build.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/c_build.yml)
+[![Valgrind](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/Valgrind.yml)
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
