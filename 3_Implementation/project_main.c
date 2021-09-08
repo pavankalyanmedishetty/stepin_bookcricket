@@ -23,7 +23,7 @@ int main()
  printf("\n\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\tWELCOME TO BOOK CRICKET GAME\t<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<\n");
  printf("Enter Player 1 Name:");
  fflush(stdin);
- gets(player_1);
+ fgets(player_1);
  printf("Enter Player 2 Name:");
  fflush(stdin);
  gets(player_2);
