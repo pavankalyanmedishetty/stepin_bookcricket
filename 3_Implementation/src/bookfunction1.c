@@ -42,7 +42,6 @@ int GetPlayerToss(char player_1[],char player_2[],int oversToplay)
   printf("Toss is Tail\n");
   if(toss==player_1Choice)
   {
-   player_1Toss=1;
    printf("Player 1 %s Won the Toss\n",player_1);
    printf("Choose\n1 - Batting\n2 - Bowl: ");
    scanf("%d",&batorbowlChoice);
