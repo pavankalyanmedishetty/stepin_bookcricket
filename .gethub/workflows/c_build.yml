@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       
-    - name: make all
-      run:  make all -C MiniProject_C/3_Implementation/
+    - name: make build
+      run:  make build -C 3_Implementation/
