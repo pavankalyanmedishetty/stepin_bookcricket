@@ -9,6 +9,7 @@
 ![Code grade](https://www.code-inspector.com/project/27544/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/52a6c05f6d1940c680671e6f02d9c6ee)](https://www.codacy.com/gh/pavankalyanmedishetty/stepin_bookcricket/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavankalyanmedishetty/stepin_bookcricket&amp;utm_campaign=Badge_Grade)
 [![cppcheck-action](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/cppcheck.yml)
+[![Unit testing](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/pavankalyanmedishetty/stepin_bookcricket/actions/workflows/unit-test.yml)
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
