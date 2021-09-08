@@ -26,7 +26,7 @@ int main()
  fgets(player_1);
  printf("Enter Player 2 Name:");
  fflush(stdin);
- gets(player_2);
+ fgets(player_2);
  printf("Enter\n1 - Fixed Overs\n2 - Play Until Out\n3 - Instructions For Book Cricket\n4 - Exit: ");
  scanf("%d",&noofovers);
   do{
